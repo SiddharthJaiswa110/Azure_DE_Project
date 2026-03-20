@@ -1,0 +1,9 @@
+{
+	"name": "df-sidazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49c50c72-04b7-45e7-86e5-212f69408a29",
+		"tenantId": "fb37dbef-e6b0-4da9-a34b-82e34d8d90b8"
+	}
+}
